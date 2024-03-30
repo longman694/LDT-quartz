@@ -1,3 +1,52 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+body {
+  font-weight: 300;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+.callout[data-callout="quote"] {
+  background: none;
+  border: none;
+}
+
+.callout[data-callout="quote"] > p {
+  margin: auto;
+  text-align: center;
+}
+
+.callout[data-callout="quote"] > .callout-title {
+  display: none;
+}
+
+.navigation {
+  border-top: 1px solid #aaa;
+  padding-top: 18px;
+  display: block;
+}
+
+.navigation > .previous {
+  border: none;
+  float: left;
+  padding: 5px 10px;
+}
+
+.navigation > .previous::before {
+  content: "< ";
+}
+
+.navigation > .next {
+  border: none;
+  float: right;
+  padding: 5px 10px;
+}
+
+.navigation > .next::after {
+  content: " >";
+}
+
