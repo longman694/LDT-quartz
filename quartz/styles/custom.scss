@@ -27,23 +27,41 @@ img {
 .navigation {
   border-top: 1px solid #aaa;
   padding-top: 18px;
-  display: block;
+  display: flex;
 }
 
 .navigation > .previous {
   border: none;
-  float: left;
   padding: 5px 10px;
+  flex-grow: 1;
+  display: inline-block;
+  text-align: center;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 .navigation > .previous::before {
   content: "< ";
 }
 
+.navigation > .up {
+  border: none;
+  padding: 5px 10px;
+  flex-grow: 1;
+  text-align: center;
+  display: inline-block;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
 .navigation > .next {
   border: none;
-  float: right;
   padding: 5px 10px;
+  flex-grow: 1;
+  text-align: center;
+  display: inline-block;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 .navigation > .next::after {
