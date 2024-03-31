@@ -10,6 +10,10 @@ img {
   margin: auto;
 }
 
+div.table-container > table {
+  margin-top: -0.6em;
+}
+
 .callout[data-callout="quote"] {
   background: none;
   border: none;
