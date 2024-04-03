@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>LDT</title>
+      <link>https://tonehertz.thinknroll.com</link>
+      <description>Last 10 notes on LDT</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>readme</title>
+    <link>https://tonehertz.thinknroll.com/readme</link>
+    <guid>https://tonehertz.thinknroll.com/readme</guid>
+    <description>LDT - Loudspeaker Design Thai คู่มือออกแบบลำโพงฉบับภาษาไทย เนื่องจากยังไม่หนังสือออกแบบลำโพงภาษาไทยที่เขียนในเชิงวิชาการลึก ๆ เลย ผมจึงคิดว่าถ้าเขียนหนังสือซักเล่มโดยอ้างอิงจากหนังสือระดับครูอย่าง ...</description>
+    <pubDate>Wed, 03 Apr 2024 07:34:52 GMT</pubDate>
+  </item><item>
+    <title>LICENSE</title>
+    <link>https://tonehertz.thinknroll.com/LICENSE</link>
+    <guid>https://tonehertz.thinknroll.com/LICENSE</guid>
+    <description>All Rights Reserved Copyright (c) 2024 Napat Charoenlarpkul.</description>
+    <pubDate>Wed, 03 Apr 2024 07:34:52 GMT</pubDate>
+  </item><item>
+    <title>1.060</title>
+    <link>https://tonehertz.thinknroll.com/chapter-1/1.060</link>
+    <guid>https://tonehertz.thinknroll.com/chapter-1/1.060</guid>
+    <description>1.60 ตัวแปรอื่น ๆ ตัวแปรอีก 3 อย่าง ที่มีประโยชน์ในการวัดคุณภาพของลำโพงปิด ได้แก่ ประสิทธิภาพอ้างอิง กำลังขับที่ถูกจำกัดโดยการกระจัดสูงสุด และกำลังไฟที่ต้องใช้ในการขับลำโพงจนถึงการกระจัดสูงสุด ...</description>
+    <pubDate>Wed, 03 Apr 2024 07:34:52 GMT</pubDate>
+  </item><item>
+    <title>1.070</title>
+    <link>https://tonehertz.thinknroll.com/chapter-1/1.070</link>
+    <guid>https://tonehertz.thinknroll.com/chapter-1/1.070</guid>
+    <description>1.070 ตัวอย่างตารางออกแบบ ตาราง 1.16 ตัวอย่างลำโพงวูฟเฟอร์ 8 นิ้ว Qts​Qes​Qms​fs​Xmax​Sd​(cm2)Vd​(l)Vas​(l)0.450.533.031.53.5mm2157.52584.1.</description>
+    <pubDate>Wed, 03 Apr 2024 07:34:52 GMT</pubDate>
+  </item><item>
+    <title>ก. อภิธานศัพท์</title>
+    <link>https://tonehertz.thinknroll.com/Glossary</link>
+    <guid>https://tonehertz.thinknroll.com/Glossary</guid>
+    <description>acoustic compliance ความหยุ่นทางเสียง air suspension bass reflex เบสรีเฟล็กซ์ damping 1.การกันเสียง 2.การหน่วง mechanical damping การหน่วงเชิงกล delay ช่วงเวลาหน่วง group ...</description>
+    <pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>1.010</title>
+    <link>https://tonehertz.thinknroll.com/chapter-1/1.010</link>
+    <guid>https://tonehertz.thinknroll.com/chapter-1/1.010</guid>
+    <description>1.10 นิยามและความหมาย ลำโพงตู้ปิดเป็นลำโพงที่มีการทำงานเรียบง่ายที่สุด มีส่วนประกอบเพียงปริมาตรอากาศในตู้ลำโพงและดอกลำโพงเท่านั้น เสียงที่ได้จะมีลักษณะเหมือนกับวงจรไฟฟ้ากรองความถี่สูงผ่านอันดับสองอนาล็อก ...</description>
+    <pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>1.030</title>
+    <link>https://tonehertz.thinknroll.com/chapter-1/1.030</link>
+    <guid>https://tonehertz.thinknroll.com/chapter-1/1.030</guid>
+    <description>1.30 ค่า Q ของดอกลำโพง และการตอบสนองความถี่ของตู้ปิด เป้าหมายในการเลือกขนาดของตู้ลำโพงให้กับดอกหนึ่ง ๆ จริง ๆ แล้วมีจุดประสงค์เพื่อให้ได้คุณลักษณะของเสียงที่ต้องการ ...</description>
+    <pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>1.040</title>
+    <link>https://tonehertz.thinknroll.com/chapter-1/1.040</link>
+    <guid>https://tonehertz.thinknroll.com/chapter-1/1.040</guid>
+    <description>1.40 การเลือกวูฟเฟอร์ และการสร้างตู้ ดอกวูฟเฟอร์ที่ถูกออกแบบมาเพื่อใช้ในตู้ปิดจะมีความถี่สั่นพ้องของดอกลำโพงในอากาศ (fs​) มีนำหนักของกรวยค่อนข้างมาก (Mms​) และขดลวดเสียง ...</description>
+    <pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>1.050</title>
+    <link>https://tonehertz.thinknroll.com/chapter-1/1.050</link>
+    <guid>https://tonehertz.thinknroll.com/chapter-1/1.050</guid>
+    <description>1.50 การหาขนาดตู้ลำโพงและตัวแปรที่เกี่ยวข้อง วิธีการคำนวนขนาดตู้ลำโพงปิดนั้นจะค่อนข้างตรงไปตรงมา ตัวแปรที่ใช้มีดังนี้ fs​ ความที่สั่นพ้องดอกลำโพงในอากาศ Qts​ ...</description>
+    <pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Tables 1.03 - 1.12</title>
+    <link>https://tonehertz.thinknroll.com/chapter-1/Tables-1.03---1.12</link>
+    <guid>https://tonehertz.thinknroll.com/chapter-1/Tables-1.03---1.12</guid>
+    <description>ตาราง 1.03 Qtc​=0.5 ดูตารางได้จาก spreadsheet ตาราง 1.04 Qtc​=0.577 ดูตารางได้จาก spreadsheet ตาราง 1.05 Qtc​=0.707 ดูตารางได้จาก spreadsheet ตาราง 1.06 Qtc​=0.8 ดูตารางได้จาก ...</description>
+    <pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
